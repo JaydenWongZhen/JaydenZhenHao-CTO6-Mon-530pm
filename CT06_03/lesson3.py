@@ -17,3 +17,4 @@ variable1=69
 variable2=21
 print(variable1+variable2)
 
+a=699
