@@ -28,3 +28,4 @@ print((owo-lol)*3)
 skibidi_toilet=100
 print(skibidi_toilet/4)
 
+succ=
