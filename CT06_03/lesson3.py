@@ -15,4 +15,4 @@ print(x)
 
 variable1=69
 variable2=21
-print(3)
+print(variable1+variable2)
