@@ -1,2 +1,3 @@
 print("Hello from lesson 3")
-# assign 
+# assign adam score 60
+3
