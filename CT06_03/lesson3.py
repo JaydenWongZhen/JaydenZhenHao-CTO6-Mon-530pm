@@ -13,4 +13,5 @@ x=20
 print("x")
 print(x)
 
-variable1=
+variable1=69
+var
