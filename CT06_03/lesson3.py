@@ -32,3 +32,4 @@ succ=3
 sumcm=4
 sigmA=5
 nicepad=2
+print(())
