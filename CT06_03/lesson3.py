@@ -5,3 +5,5 @@ print("Hello from lesson 3")
 #assign Daniel
 # take the sum, divide by 4
 # print the final value
+
+adam
