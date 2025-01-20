@@ -6,8 +6,4 @@ print("Hello from lesson 3")
 # take the sum, divide by 4
 # print the final value
 
-adam=60
-Charlie=10
-Brandon=90
-Daniel=45
-
+myN
