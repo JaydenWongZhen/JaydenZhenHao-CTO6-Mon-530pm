@@ -10,3 +10,4 @@ myAge="10"
 print(myAge+" is my age")
 x=8990
 x=20
+print()
