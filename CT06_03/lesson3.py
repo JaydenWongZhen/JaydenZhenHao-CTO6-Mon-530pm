@@ -22,3 +22,4 @@ b=420
 print(a+b)
 
 lol=10
+owo=50
