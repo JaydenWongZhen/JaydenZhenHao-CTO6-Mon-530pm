@@ -14,4 +14,4 @@ print("x")
 print(x)
 
 variable1=69
-var
+variable2=21
