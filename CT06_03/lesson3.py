@@ -6,4 +6,4 @@ print("Hello from lesson 3")
 # take the sum, divide by 4
 # print the final value
 
-myAge=10
+myAge="10"
