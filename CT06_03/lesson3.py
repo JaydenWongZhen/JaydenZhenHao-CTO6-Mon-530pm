@@ -19,4 +19,4 @@ print(variable1+variable2)
 
 a=69
 b=420
-print()
+print(a+b)
