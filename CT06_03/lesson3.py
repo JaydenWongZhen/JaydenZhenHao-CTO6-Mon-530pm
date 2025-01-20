@@ -9,3 +9,4 @@ print("Hello from lesson 3")
 adam=60
 Charlie=10
 Brandon=90
+Daniel
