@@ -33,4 +33,4 @@ sumcm=4
 sigmA=5
 nicepad=2
 print((succ+sumcm)*sigmA-(lol/nicepad))
-print("the ")
+print("the jiggle fingle the thingamajg")
