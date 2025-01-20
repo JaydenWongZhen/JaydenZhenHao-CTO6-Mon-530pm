@@ -7,4 +7,4 @@ print("Hello from lesson 3")
 # print the final value
 
 myAge="10"
-print()
+print("myAge")
