@@ -25,3 +25,4 @@ lol=10
 owo=50
 print((owo-lol)*3)
 
+findf
