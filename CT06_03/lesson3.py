@@ -7,3 +7,4 @@ print("Hello from lesson 3")
 # print the final value
 
 adam=60
+Charlie=10
