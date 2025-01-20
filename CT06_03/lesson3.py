@@ -26,4 +26,4 @@ owo=50
 print((owo-lol)*3)
 
 skibidi_toilet=100
-print()
+print(skibidi_toilet/4)
