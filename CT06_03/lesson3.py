@@ -8,3 +8,4 @@ print("Hello from lesson 3")
 
 myAge="10"
 print(myAge+" is my age")
+x=8990
