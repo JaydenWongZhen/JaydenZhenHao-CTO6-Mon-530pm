@@ -30,4 +30,4 @@ print(skibidi_toilet/4)
 
 succ=3
 sumcm=4
-gedagadegadagao=5
+sigmA=5
