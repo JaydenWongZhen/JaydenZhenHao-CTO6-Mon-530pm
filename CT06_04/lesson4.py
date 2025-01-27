@@ -11,4 +11,4 @@ print("Hello from lesson 4")
 
 
 reply=input("WHAT IS YOUR nAME")
-print("GREETINGS PERSON ")
+print("GREETINGS PERSON " + reply)
