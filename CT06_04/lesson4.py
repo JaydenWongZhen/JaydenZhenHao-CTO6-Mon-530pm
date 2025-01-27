@@ -10,4 +10,4 @@ jakepaul=4*green_poweroftwo
 print(poopee+peepoo+jakepaul)
 
 
-reply
+reply=input
