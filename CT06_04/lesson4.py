@@ -8,3 +8,5 @@ peepoo=5*blue_skibidi
 jakepaul=4*green_poweroftwo
 
 print(poopee+peepoo+jakepaul)
+
+
