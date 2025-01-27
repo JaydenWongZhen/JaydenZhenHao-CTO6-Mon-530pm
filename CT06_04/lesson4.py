@@ -7,4 +7,4 @@ poopee=3*red
 peepoo=5*blue_skibidi
 jakepaul=4*green_poweroftwo
 
-print(poopee+pee)
+print(poopee+peepoo+jakepaul)
