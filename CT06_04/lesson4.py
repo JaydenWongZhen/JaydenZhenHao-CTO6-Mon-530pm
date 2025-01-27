@@ -3,6 +3,6 @@ red=1
 blue_skibidi=2
 green_poweroftwo=3
 
-print(3*red)
-print(5*blue_skibidi)
-print(4*green_poweroftwo)
+3*red
+5*blue_skibidi
+4*green_poweroftwo
