@@ -3,6 +3,6 @@ red=1
 blue_skibidi=2
 green_poweroftwo=3
 
-3*red
+poopee=3*red
 5*blue_skibidi
 4*green_poweroftwo
