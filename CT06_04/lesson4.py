@@ -4,5 +4,5 @@ blue_skibidi=2
 green_poweroftwo=3
 
 poopee=3*red
-5*blue_skibidi
+peepoo=5*blue_skibidi
 4*green_poweroftwo
