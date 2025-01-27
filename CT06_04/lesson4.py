@@ -5,3 +5,4 @@ green_poweroftwo=3
 
 print(3*red)
 print(5*blue_skibidi)
+print(4*gre)
