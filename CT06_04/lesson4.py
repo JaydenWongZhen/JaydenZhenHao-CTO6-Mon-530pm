@@ -10,4 +10,4 @@ print("Hello from lesson 4")
 # print(poopee+peepoo+jakepaul)
 
 
-reply=input
+reply=input()
