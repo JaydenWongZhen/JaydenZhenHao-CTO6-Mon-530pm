@@ -49,7 +49,7 @@ sh=1
 nermb=input("giv numbr 1 ")
 nermb=int(nermb)
 ber=input("giv numbr 2 ")
-
+ber=int()
 if nermb >= ber:
     x=nermb
 for bitcoin in range(nermb,ber):
