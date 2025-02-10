@@ -32,3 +32,4 @@ print(str(rand))
 
 for al in "alberqurkey":
     print("i love " + al)
+    
