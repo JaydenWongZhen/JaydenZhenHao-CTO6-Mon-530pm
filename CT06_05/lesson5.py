@@ -45,6 +45,7 @@ print(str(rand))
 #     print(breh)
 # print("I COMMITED SEVERAL WAR CRIMES!   boo.")
 
+sh=1
 nermb=input("giv numbr 1 ")
 ber=input("giv numbr 2 ")
 
