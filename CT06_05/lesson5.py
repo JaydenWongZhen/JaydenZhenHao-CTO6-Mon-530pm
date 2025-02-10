@@ -40,3 +40,6 @@ print(str(rand))
 # for jgjgj in range(3,0,-1):
 #     print(jgjgj)
 # print ("go")
+
+for breh in range(10,0,-1):
+    print(breh)
