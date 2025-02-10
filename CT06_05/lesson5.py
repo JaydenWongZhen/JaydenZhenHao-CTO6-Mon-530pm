@@ -33,5 +33,5 @@ print(str(rand))
 for al in "alberqurkey":
     print("i love " + al)
 
-for num in range(8,97,8):
+for num in range(10,0,):
     print(num)
