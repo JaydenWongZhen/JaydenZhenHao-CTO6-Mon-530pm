@@ -37,7 +37,5 @@ print(str(rand))
 #     print(num)
 
 for jgjgj in range(3,0,-1):
-
-    print("ready?")
     print(jgjgj)
-    print ("go")
+print ("go")
