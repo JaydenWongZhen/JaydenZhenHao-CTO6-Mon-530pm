@@ -48,5 +48,7 @@ print("I COMMITED SEVERAL WAR CRIMES!   boo.")
 nermb=input("giv numbr 1 ")
 ber=input("giv numbr 2 ")
 
+if nermb >= ber:
+    sh=
 for bitcoin in range(nermb,ber):
     print(bitcoin)
