@@ -55,4 +55,4 @@ if nermb >= ber:
     nermb=ber
     ber=x
 for bitcoin in range(nermb,ber):
-    print(int(bitcoin))
+    print(be)
