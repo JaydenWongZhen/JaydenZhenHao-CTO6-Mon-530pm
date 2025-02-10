@@ -34,3 +34,4 @@ for al in "alberqurkey":
     print("i love " + al)
 
 ru = range(1,5)
+print(ru)
