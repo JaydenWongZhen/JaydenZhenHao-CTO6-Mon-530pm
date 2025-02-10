@@ -41,14 +41,14 @@ print(str(rand))
 #     print(jgjgj)
 # print ("go")
 
-for breh in range(10,0,-1):
-    print(breh)
-print("I COMMITED SEVERAL WAR CRIMES!   boo.")
+# for breh in range(10,0,-1):
+#     print(breh)
+# print("I COMMITED SEVERAL WAR CRIMES!   boo.")
 
 nermb=input("giv numbr 1 ")
 ber=input("giv numbr 2 ")
 
 if nermb >= ber:
-    sh=
+    sh=-1
 for bitcoin in range(nermb,ber):
     print(bitcoin)
