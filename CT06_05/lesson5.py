@@ -37,5 +37,6 @@ print(str(rand))
 #     print(num)
 
 for jgjgj in range(3,0,-1):
+
     print(jgjgj)
 print ("go")
