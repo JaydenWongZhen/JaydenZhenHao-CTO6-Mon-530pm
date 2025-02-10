@@ -43,4 +43,4 @@ print(str(rand))
 
 for breh in range(10,0,-1):
     print(breh)
-print()
+print("I COMMITED SEVERAL WAR CRIMES")
