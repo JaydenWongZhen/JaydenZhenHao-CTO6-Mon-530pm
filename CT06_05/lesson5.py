@@ -47,6 +47,7 @@ print(str(rand))
 
 sh=1
 nermb=input("giv numbr 1 ")
+nermb=int()
 ber=input("giv numbr 2 ")
 
 if nermb >= ber:
