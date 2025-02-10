@@ -30,8 +30,8 @@ print(str(rand))
 #     print("i love caik")
 #     print("GIVE ME MORE")
 
-for al in "alberqurkey":
-    print("i love " + al)
+# for al in "alberqurkey":
+#     print("i love " + al)
 
-for num in range(5,0,-1):
-    print(num)
+# for num in range(5,0,-1):
+#     print(num)
