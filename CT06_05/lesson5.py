@@ -29,3 +29,6 @@ print(str(rand))
 # for ra in range(100):
 #     print("i love caik")
 #     print("GIVE ME MORE")
+
+for al in "alberqurkey":
+    
