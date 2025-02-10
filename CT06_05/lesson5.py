@@ -50,6 +50,6 @@ nermb=input("giv numbr 1 ")
 ber=input("giv numbr 2 ")
 
 if nermb >= ber:
-    sh=-1
-for bitcoin in range(nermb,ber,sh):
+    x
+for bitcoin in range(nermb,ber):
     print(int(bitcoin))
