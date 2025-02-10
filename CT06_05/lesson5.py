@@ -52,4 +52,4 @@ ber=input("giv numbr 2 ")
 if nermb >= ber:
     sh=-1
 for bitcoin in range(nermb,ber,sh):
-    print(str(bitcoin))
+    print(brombus)
