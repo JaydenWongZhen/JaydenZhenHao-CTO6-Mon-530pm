@@ -45,14 +45,14 @@ print(str(rand))
 #     print(breh)
 # print("I COMMITED SEVERAL WAR CRIMES!   boo.")
 
-sh=1
-nermb=input("giv numbr 1 ")
-nermb=int(nermb)
-ber=input("giv numbr 2 ")
-ber=int(ber)
-if nermb >= ber:
-    x=nermb
-    nermb=ber
-    ber=x
-for bitcoin in range(nermb,ber):
-    print(bitcoin)
+# sh=1
+# nermb=input("giv numbr 1 ")
+# nermb=int(nermb)
+# ber=input("giv numbr 2 ")
+# ber=int(ber)
+# if nermb >= ber:
+#     x=nermb
+#     nermb=ber
+#     ber=x
+# for bitcoin in range(nermb,ber):
+#     print(bitcoin)
