@@ -26,6 +26,6 @@ print("we got " + dave)
 
 # for le in range(100):
 #     print("i love chickenen ricicice")
-for ra in range(100):
-    print("i love caik")
-    print("GIVE ME MORE")
+# for ra in range(100):
+#     print("i love caik")
+#     print("GIVE ME MORE")
