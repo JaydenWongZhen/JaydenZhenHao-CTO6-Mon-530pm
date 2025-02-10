@@ -17,12 +17,12 @@ print(str(rand))
 # for abc in "I EAT PEE!":
 #     print(abc)
 
-dave=input("wht is your name ")
-for d in dave:
-    print("give me an " + d)
+# dave=input("wht is your name ")
+# for d in dave:
+#     print("give me an " + d)
 
-print("what have we got?")
-print("we got " + dave)
+# print("what have we got?")
+# print("we got " + dave)
 
 # for le in range(100):
 #     print("i love chickenen ricicice")
