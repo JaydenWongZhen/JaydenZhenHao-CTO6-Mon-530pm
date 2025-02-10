@@ -46,4 +46,4 @@ for breh in range(10,0,-1):
 print("I COMMITED SEVERAL WAR CRIMES!   boo.")
 
 nermb=input("giv numbr 1 ")
-ber=input()
+ber=input("giv numbr 2 ")
