@@ -52,6 +52,7 @@ ber=input("giv numbr 2 ")
 ber=int(ber)
 if nermb >= ber:
     x=nermb
-    
+    nermb=ber
+    ber=x
 for bitcoin in range(nermb,ber):
     print(int(bitcoin))
