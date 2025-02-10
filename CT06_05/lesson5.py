@@ -34,4 +34,4 @@ for al in "alberqurkey":
     print("i love " + al)
 
 for num in range(1,5):
-    print(ru)
+    print(num)
