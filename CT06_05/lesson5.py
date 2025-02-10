@@ -47,3 +47,6 @@ print("I COMMITED SEVERAL WAR CRIMES!   boo.")
 
 nermb=input("giv numbr 1 ")
 ber=input("giv numbr 2 ")
+
+for bitcoin in range(nermb,ber):
+    p
