@@ -30,13 +30,13 @@ print("Hello from lesson 7")
 #     print("hi and nice to meet you " + naem)
 
 
-# totalsum=0
+totalsum=0
 
-# for rblyx in range(5):
-#     overwritten=int(input("tell me a number "))
-#     totalsum=overwritten+totalsum
+for rblyx in range(5):
+    overwritten=int(input("tell me a number "))
+    totalsum=overwritten+totalsum
 
-# print("your sum is " + str(totalsum))
+print("your sum is " + str(totalsum))
 
 # import random
 # dice=random.randint(1,6)
