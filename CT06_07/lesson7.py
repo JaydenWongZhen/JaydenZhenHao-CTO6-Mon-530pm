@@ -11,4 +11,4 @@ print(ac)
 
 studetnme="ALexa"
 
-print("total score of " + studetnme)
+print("total score of " + studetnme + "is ")
