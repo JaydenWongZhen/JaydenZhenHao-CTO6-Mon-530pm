@@ -23,4 +23,4 @@ print("Hello from lesson 7")
 #     print(b)
 
 naem=input("what is your name ")
-rep=str(input("what is"))
+rep=str(input("how many time to repeat"))
