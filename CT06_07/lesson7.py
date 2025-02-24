@@ -23,7 +23,7 @@ print("Hello from lesson 7")
 #     print(b)
 
 naem=input("what is your name ")
-rep=int(input("how many time to repeat"))
+rep=int(input("how many time to repeat "))
 
 for roblox in range(rep):
     print("hi and nice to meet you " + naem)
