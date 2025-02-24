@@ -39,3 +39,4 @@ print("Hello from lesson 7")
 # print("your sum is " + str(totalsum))
 
 import random
+r=random.randint(1)
