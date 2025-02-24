@@ -23,3 +23,4 @@ print("Hello from lesson 7")
 #     print(b)
 
 naem=input("what is your name ")
+rep=input(ho)
