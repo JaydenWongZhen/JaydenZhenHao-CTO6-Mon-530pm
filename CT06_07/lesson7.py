@@ -9,4 +9,4 @@ total=s1+s2+s3
 ac=ToTL/3
 print(ac)
 
-studetn
+studetnme="ALexa"
