@@ -13,3 +13,5 @@ print("Hello from lesson 7")
 
 # print("av score of " + studetnme + " is: " + str(ac))
 
+for num in range(1,11):
+    print(num)
