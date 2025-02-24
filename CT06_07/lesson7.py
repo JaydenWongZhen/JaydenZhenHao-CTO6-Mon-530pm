@@ -6,4 +6,4 @@ s3=75
 
 total=s1+s2+s3
 
-ac=t
+ac=ToTL
