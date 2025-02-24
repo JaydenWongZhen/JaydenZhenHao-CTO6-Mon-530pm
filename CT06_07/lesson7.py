@@ -33,7 +33,7 @@ print("Hello from lesson 7")
 totalsum=0
 eminem= "what is numbar #"
 for rblyx in range(5):
-    overwritten=int(input("tell me number "))
+    overwritten=int(input(emi))
     totalsum=overwritten+totalsum
 
 print("your sum is " + str(totalsum))
