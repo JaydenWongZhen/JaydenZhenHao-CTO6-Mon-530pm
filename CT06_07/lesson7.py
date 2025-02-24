@@ -31,7 +31,7 @@ print("Hello from lesson 7")
 
 
 totalsum=0
-eminem= "h"
+eminem= "what is numbar #"
 for rblyx in range(5):
     overwritten=int(input("tell me number "))
     totalsum=overwritten+totalsum
