@@ -26,4 +26,4 @@ naem=input("what is your name ")
 rep=str(input("how many time to repeat"))
 
 for roblox in range(rep):
-    print()
+    print("hi and nice to meet you")
