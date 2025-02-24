@@ -29,6 +29,8 @@ rep=int(input("how many time to repeat "))
 for roblox in range(rep):
     print("hi and nice to meet you " + naem)
 
+
+totalsum=0
 for rblyx in range(5):
     overwritten=int(input("tell me a number "))
     totalsum
