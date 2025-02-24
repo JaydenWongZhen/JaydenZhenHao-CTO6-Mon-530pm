@@ -11,4 +11,4 @@ print(ac)
 
 studetnme="ALexa"
 
-print("av score of " + studetnme + "is:" + ac)
+print("av score of " + studetnme + " is: " + ac)
