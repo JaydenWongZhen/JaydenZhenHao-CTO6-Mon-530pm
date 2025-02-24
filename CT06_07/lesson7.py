@@ -42,4 +42,4 @@ import random
 dice=random.randint(1,6)
 print(str(dice))
 if dice ==6:
-    print("you rolled the lucky y")
+    print("you rolled the lucky nymber")
