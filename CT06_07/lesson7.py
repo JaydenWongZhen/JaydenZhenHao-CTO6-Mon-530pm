@@ -24,3 +24,6 @@ print("Hello from lesson 7")
 
 naem=input("what is your name ")
 rep=str(input("how many time to repeat"))
+
+for roblox in range(rep):
+    print()
