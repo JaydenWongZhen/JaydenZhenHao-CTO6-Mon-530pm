@@ -38,8 +38,8 @@ print("Hello from lesson 7")
 
 # print("your sum is " + str(totalsum))
 
-import random
-dice=random.randint(1,6)
-print(str(dice))
-if dice ==6:
-    print("you rolled the lucky number")
+# import random
+# dice=random.randint(1,6)
+# print(str(dice))
+# if dice ==6:
+#     print("you rolled the lucky number")
