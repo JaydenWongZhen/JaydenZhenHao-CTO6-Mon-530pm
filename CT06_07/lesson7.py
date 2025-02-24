@@ -15,3 +15,6 @@ print("Hello from lesson 7")
 
 for num in range(1,11):
     print(num)
+
+for a in range(2,21,2):
+    print(a)
