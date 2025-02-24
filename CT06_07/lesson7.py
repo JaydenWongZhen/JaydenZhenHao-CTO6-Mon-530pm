@@ -22,7 +22,7 @@ print("Hello from lesson 7")
 # for b in range(10,0,-1):
 #     print(b)
 
-#### i forot
+#### i accidentally did 5 first u
 naem=input("what is your name ")
 rep=int(input("how many time to repeat "))
 
