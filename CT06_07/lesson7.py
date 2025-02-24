@@ -31,6 +31,7 @@ for roblox in range(rep):
 
 
 totalsum=0
+
 for rblyx in range(5):
     overwritten=int(input("tell me a number "))
-    totalsum
+    totalsum=overw
