@@ -6,7 +6,7 @@ s3=75
 
 total=s1+s2+s3
 
-ac=ToTL/3
+ac=total/3
 print(ac)
 
 studetnme="ALexa"
