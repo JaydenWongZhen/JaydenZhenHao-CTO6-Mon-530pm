@@ -30,4 +30,5 @@ for roblox in range(rep):
     print("hi and nice to meet you " + naem)
 
 for rblyx in range(5):
-    overwritten=int(input("tell me a n"))
+    overwritten=int(input("tell me a number "))
+    
