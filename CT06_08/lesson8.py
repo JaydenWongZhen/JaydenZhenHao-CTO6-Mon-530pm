@@ -5,4 +5,5 @@ print("Hello from lesson 8")
 pd=0
 for c in range(5):
     num = int(input("Give me a number "))
-    pd = pd
+    pd = pd*num
+
