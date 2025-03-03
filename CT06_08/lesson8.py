@@ -1,3 +1,3 @@
 print("Hello from lesson 8")
 
-#ask for 5 numbers
+#ask for 5 numbers using a forvloop
