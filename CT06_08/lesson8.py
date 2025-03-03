@@ -8,3 +8,6 @@ for c in range(5):
     pd = pd*num
 
 print("da final result is " + str(pd))
+
+if pd >= 1000000000000:
+    pd=
