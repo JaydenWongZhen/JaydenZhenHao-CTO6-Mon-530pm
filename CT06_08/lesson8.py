@@ -7,7 +7,6 @@ for c in range(5):
     num = int(input("Give me a number "))
     pd = pd*num
 
-print("da final result is " + str(pd))
-
 if pd >= 1000000000000:
     pd="beyond my feeble brain to comprehend"
+    
