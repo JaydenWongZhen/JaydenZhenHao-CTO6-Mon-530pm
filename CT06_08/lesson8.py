@@ -23,7 +23,7 @@ import random
 hell=random.randint(1,50)
 hole=random.randint(1,50)
 sigma="what is" + str(hell) + " + " + str(hole) + "?"
-eq=int(input())
+eq=int(input(sigma))
 if eq != 21:
     eq= False
 if eq == False:
