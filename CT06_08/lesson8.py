@@ -33,4 +33,4 @@ print("Hello from lesson 8")
 #     print("true good job")
 
 import random
-r1=int(input("input "))
+r1=int(input("input range 1"))
