@@ -17,6 +17,3 @@ print("Hello from lesson 8")
 
 import random
 
-ran=float(random.randint(0,0.99))
-
-print(str(ran))
