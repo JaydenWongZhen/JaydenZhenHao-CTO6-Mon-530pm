@@ -21,7 +21,7 @@ import random
 #     print(random.randint(0,9999))
 
 hell=random.randint(1,50)
-
+hole=random
 
 eq=int(input())
 if eq != 21:
