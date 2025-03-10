@@ -32,4 +32,5 @@ print("Hello from lesson 8")
 # else:
 #     print("true good job")
 
-import reioj
+import random
+nfddg
