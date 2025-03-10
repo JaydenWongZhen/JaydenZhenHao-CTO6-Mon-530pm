@@ -18,3 +18,5 @@ print("Hello from lesson 8")
 import random
 
 num=random.randint(1,6)
+
+print(num)
