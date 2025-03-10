@@ -10,4 +10,4 @@ print("Hello from lesson 8")
 # print("final res: " + str(pd))
 
 import time
-cd = 
+cd = input(w)
