@@ -25,4 +25,5 @@ if eq != 21:
     eq= False
 if eq == False:
     print("u stoopy")
-    
+else:
+    print("good job")
