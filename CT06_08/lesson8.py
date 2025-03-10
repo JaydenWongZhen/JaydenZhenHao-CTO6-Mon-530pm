@@ -15,3 +15,5 @@ print("Hello from lesson 8")
 # incre=int(input("insert "))
 # for count in range
 
+import random
+
