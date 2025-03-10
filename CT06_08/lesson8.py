@@ -20,7 +20,7 @@ import random
 # for fejge in range(1,20):
 #     print(random.randint(0,9999))
 
-eq=int(input("what +10 "))
+eq=int(input("what "))
 if eq != 21:
     eq= False
 if eq == False:
