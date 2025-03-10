@@ -10,5 +10,5 @@ print("Hello from lesson 8")
 # print("final res: " + str(pd))
 
 import time
-cd = input("what would u like to count to ")
-cde=input("is")
+cd = input("insert ")
+cde=input("insert ending number")
