@@ -9,7 +9,8 @@ print("Hello from lesson 8")
 
 # print("final res: " + str(pd))
 
-import time
-cd = int(input("insert starting num "))
-cde=int(input("insert ending number "))
-
+# import time
+# cd = int(input("insert starting num "))
+# cde=int(input("insert ending number "))
+# incre=int(input("insert "))
+# for count in range
