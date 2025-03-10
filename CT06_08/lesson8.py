@@ -15,12 +15,12 @@ print("Hello from lesson 8")
 # incre=int(input("insert "))
 # for count in range
 
-# import random
+import random
 
 # for fejge in range(1,20):
 #     print(random.randint(0,9999))
 
-eq=int(input("what 9+10 "))
+eq=int(input("what +10 "))
 if eq != 21:
     eq= False
 if eq == False:
