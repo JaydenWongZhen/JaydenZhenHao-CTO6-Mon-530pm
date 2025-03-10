@@ -33,3 +33,4 @@ print("Hello from lesson 8")
 #     print("true good job")
 
 import random
+r1=randint
