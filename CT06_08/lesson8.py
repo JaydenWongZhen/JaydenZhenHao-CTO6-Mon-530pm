@@ -11,4 +11,4 @@ print("Hello from lesson 8")
 
 import time
 cd = input("what would u like to count to ")
-cde=
+cde=input("is")
