@@ -19,4 +19,4 @@ import random
 
 ran=float(random.randint(0,0.99))
 
-print(ran)
+print(str(ran))
