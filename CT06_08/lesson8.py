@@ -10,4 +10,4 @@ print("Hello from lesson 8")
 # print("final res: " + str(pd))
 
 import time
-cd = input("what would u like to ")
+cd = input("what would u like to count to ")
