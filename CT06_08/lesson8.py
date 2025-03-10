@@ -26,4 +26,4 @@ if eq != 21:
 if eq == False:
     print("false liar")
 else:
-    print("g")
+    print("true good job")
