@@ -24,6 +24,6 @@ eq=int(input("what 9+10 "))
 if eq != 21:
     eq= False
 if eq == False:
-    print("u stoopy")
+    print("false liar")
 else:
-    print("good job")
+    print("g")
