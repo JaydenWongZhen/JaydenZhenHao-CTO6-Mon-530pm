@@ -8,3 +8,5 @@ print("Hello from lesson 8")
 #     pd = pd*num
 
 # print("final res: " + str(pd))
+
+import tim
