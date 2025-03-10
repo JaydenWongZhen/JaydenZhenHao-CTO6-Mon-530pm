@@ -20,14 +20,14 @@ import random
 # for fejge in range(1,20):
 #     print(random.randint(0,9999))
 
-hell=random.randint(1,50)
-hole=random.randint(1,50)
-rdx=hell+hole
-sigma="what is " + str(hell) + " + " + str(hole) + "? "
-eq=int(input(sigma))
-if eq != rdx:
-    eq= False
-if eq == False:
-    print("false liar")
-else:
-    print("true good job")
+# hell=random.randint(1,50)
+# hole=random.randint(1,50)
+# rdx=hell+hole
+# sigma="what is " + str(hell) + " + " + str(hole) + "? "
+# eq=int(input(sigma))
+# if eq != rdx:
+#     eq= False
+# if eq == False:
+#     print("false liar")
+# else:
+#     print("true good job")
