@@ -32,4 +32,4 @@ print("Hello from lesson 8")
 # else:
 #     print("true good job")
 
-prrange=rand
+r
