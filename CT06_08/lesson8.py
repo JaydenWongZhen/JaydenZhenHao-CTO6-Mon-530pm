@@ -17,6 +17,6 @@ print("Hello from lesson 8")
 
 import random
 
-ran=random.randint(1,6)
+ran=random.randint()
 
 print(ran)
