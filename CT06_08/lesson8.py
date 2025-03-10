@@ -14,4 +14,4 @@ import time
 for cd in range(10,0,-1):
     print(cd)
     time.sleep(1)
-print()
+print("")
