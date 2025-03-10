@@ -34,4 +34,4 @@ print("Hello from lesson 8")
 
 import random
 r1=random.randint(1,50)
-r
+r2=random
