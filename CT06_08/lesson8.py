@@ -10,8 +10,3 @@ print("Hello from lesson 8")
 # print("final res: " + str(pd))
 
 import time
-
-for cd in range(10,0,-1):
-    print(cd)
-    time.sleep(1)
-print("liftoff")
