@@ -23,3 +23,5 @@ print("Hello from lesson 8")
 eq=int(input("what 9+10 "))
 if eq != 21:
     eq= False
+if eq == False:
+    print("u")
