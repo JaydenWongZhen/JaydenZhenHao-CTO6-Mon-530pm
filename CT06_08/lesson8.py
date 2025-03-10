@@ -1,6 +1,6 @@
 print("Hello from lesson 8")
 
-# #ask for 5 numbers using a forvloop
+ #ask for 5 numbers using a forvloop
 
 # pd=1
 # for c in range(5):
