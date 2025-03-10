@@ -9,4 +9,7 @@ print("Hello from lesson 8")
 
 # print("final res: " + str(pd))
 
-import tim
+import time
+
+for cd in range(10,0,-1):
+    print(cd)
