@@ -15,7 +15,7 @@ print("Hello from lesson 8")
 # incre=int(input("insert "))
 # for count in range
 
-import random
+# import random
 
 # for fejge in range(1,20):
 #     print(random.randint(0,9999))
@@ -31,3 +31,4 @@ import random
 #     print("false liar")
 # else:
 #     print("true good job")
+
