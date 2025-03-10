@@ -10,5 +10,6 @@ print("Hello from lesson 8")
 # print("final res: " + str(pd))
 
 import time
-cd = input("insert starting num ")
+cd = int(input("insert starting num "))
 cde=int(input("insert ending number "))
+
