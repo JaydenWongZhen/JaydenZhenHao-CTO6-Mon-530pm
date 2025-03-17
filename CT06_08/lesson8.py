@@ -32,5 +32,21 @@ print("Hello from lesson 8")
 # else:
 #     print("true good job")
 
-import random
-r1=int(input("input range 1 "))
+# import random
+# r1= random.randint(1,50)
+# sta= int(input("please input starting num "))
+# end= int(input("please input ending num "))
+
+# print(sta<=r1<=end)
+
+
+# print(15%4)
+# print(15/4)
+# print(155//3)
+
+oore=int(input("input a number, odd number is false, even number is true. "))
+if oore%2==0:
+    oore=True
+else:
+    oore=False
+print(oore)
