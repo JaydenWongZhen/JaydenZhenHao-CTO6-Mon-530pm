@@ -9,4 +9,4 @@
 
 import random
 answer=random.randint(1,50)
-g
+guess=int(input())
