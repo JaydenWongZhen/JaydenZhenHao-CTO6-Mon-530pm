@@ -8,4 +8,4 @@
 #     print("Alright, you're clear! Have a nice day!")
 
 import random
-answer=y
+answer=random
