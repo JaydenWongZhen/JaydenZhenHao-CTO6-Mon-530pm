@@ -8,4 +8,5 @@
 #     print("Alright, you're clear! Have a nice day!")
 
 import random
-answer=random
+answer=random.randint(1,50)
+g
