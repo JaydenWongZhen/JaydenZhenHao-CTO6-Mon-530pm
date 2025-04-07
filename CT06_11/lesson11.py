@@ -9,4 +9,5 @@ print("gbrgegfw")
 
 rrjegsjh=int(input("give me a nmunhlkfjobyigfhuer "))
 if rrjegsjh%3 and rrjegsjh%7 == 0:
-    print("divisible")
+    print("divisible by 3 and 7")
+    
