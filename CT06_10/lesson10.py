@@ -22,4 +22,6 @@ print("Hello from lesson 10")
 #     print("Password Incorrect. Try again.")
 
 
-scr=int(input("tell me your score"))
+scr=int(input("tell me your score "))
+if scr >= 90:
+    
