@@ -25,9 +25,9 @@ print("Hello from lesson 10")
 scr=int(input("tell me your score "))
 if scr >= 90:
     print("wow, you got an A")
-elif scr >= 89:
+elif scr <= 89:
     print("ok, you got a B")
-elif scr >= 79:
+elif scr <= 79:
     print("you got a C, Good enough.")
 elif scr >= 69:
     print("ehh you got a D")
