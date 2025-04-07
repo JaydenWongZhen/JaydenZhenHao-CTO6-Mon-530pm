@@ -30,4 +30,4 @@ elif scr >= 89:
 elif scr >= 79:
     print("you got a C, Good enough.")
 elif scr >= 69:
-    print("ehh a ")
+    print("ehh you got a D kinda Di")
