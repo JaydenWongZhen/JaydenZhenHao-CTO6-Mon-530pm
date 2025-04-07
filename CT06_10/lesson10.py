@@ -32,4 +32,6 @@ elif scr >= 79:
 elif scr >= 69:
     print("ehh you got a D")
 elif scr <= 60:
-    
+    print("bruh")
+else:
+    print()
