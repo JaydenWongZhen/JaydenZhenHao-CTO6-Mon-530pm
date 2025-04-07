@@ -24,4 +24,4 @@ age=int(input("what is ur age "))
 if age >= 65 or age <=5:
     print("the price of your ticket is $15.")
 else:
-    print
+    print("the price of your ticket is $20")
