@@ -1,8 +1,8 @@
 print("gbrgegfw")
 
-riderI=121
-riderII=121
-if riderI > 120 and riderII > 120:
-    print("good")
-else:
-    print("come back when taller")
+# riderI=121
+# riderII=121
+# if riderI > 120 and riderII > 120:
+#     print("good")
+# else:
+#     print("come back when taller")
