@@ -26,4 +26,4 @@ scr=int(input("tell me your score "))
 if scr >= 90:
     print("wow, you got an A")
 elif scr >= 80:
-    print("ok, ")
+    print("ok, you got a B")
