@@ -22,16 +22,16 @@ print("Hello from lesson 10")
 #     print("Password Incorrect. Try again.")
 
 
-scr=int(input("tell me your score "))
-if scr >= 90:
-    print("wow, you got an A")
-elif scr >= 80:
-    print("ok, you got a B")
-elif scr >= 70:
-    print("you got a C, Good enough.")
-elif scr >= 60:
-    print("ehh you got a D")
-elif scr <= 60:
-    print("bruh")
-else:
-    print("invalid")
+# scr=int(input("tell me your score "))
+# if scr >= 90:
+#     print("wow, you got an A")
+# elif scr >= 80:
+#     print("ok, you got a B")
+# elif scr >= 70:
+#     print("you got a C, Good enough.")
+# elif scr >= 60:
+#     print("ehh you got a D")
+# elif scr <= 60:
+#     print("bruh")
+# else:
+#     print("invalid")
