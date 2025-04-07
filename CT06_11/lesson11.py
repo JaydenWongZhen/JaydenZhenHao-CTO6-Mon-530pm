@@ -15,7 +15,7 @@ print("gbrgegfw")
 
 rodent1=34
 roden2=1
-if rodent1 == 18 or roden2 == 18:
+if rodent1 >= 18 or roden2 == 18:
     print("k your good")
 else:
     print("insufficcent age")
