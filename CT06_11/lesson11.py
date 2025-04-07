@@ -18,4 +18,4 @@ roden2=18
 if rodent1 >= 18 or roden2 >= 18:
     print("k your good")
 else:
-    print("! adult requ")
+    print("1 human adult required")
