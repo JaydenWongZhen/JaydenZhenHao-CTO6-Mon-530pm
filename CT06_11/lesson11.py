@@ -1,7 +1,7 @@
 print("gbrgegfw")
 
-riderI=119
-riderII=119
+riderI=121
+riderII=121
 if riderI > 120 and riderII > 120:
     print("good")
 else:
