@@ -7,4 +7,6 @@ print("gbrgegfw")
 # else:
 #     print("come back when taller")
 
-rrjegsjh=int(input("give me a nmunhlkfjobyigfhuer"))
+rrjegsjh=int(input("give me a nmunhlkfjobyigfhuer "))
+if rrjegsjh%3 and rrjegsjh%7 == 0:
+    print("divisible")
