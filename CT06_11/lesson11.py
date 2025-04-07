@@ -7,4 +7,4 @@ print("gbrgegfw")
 # else:
 #     print("come back when taller")
 
-rrjegsjh=int(input(""))
+rrjegsjh=int(input("give me a nmunhlkfjobyigfhuer"))
