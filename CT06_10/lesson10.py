@@ -1,4 +1,4 @@
-print("Hello from lesson 999999999999999999999")
+print("Hello from lesson 10.25")
 
 # bbobb=int(input("tell me a negatie or postive num "))
 # if bbobb >= 0:
