@@ -13,7 +13,7 @@ print("gbrgegfw")
 # else:
 #     print("not divisible by 3 and 7")
 
-rodent1=18
+rodent1=16
 roden2=1
 if rodent1 >= 18 or roden2 >= 18:
     print("k your good")
