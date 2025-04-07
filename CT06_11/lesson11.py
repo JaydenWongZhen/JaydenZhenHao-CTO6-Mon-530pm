@@ -1,6 +1,6 @@
 print("gbrgegfw")
 
-riderI=1
+riderI=119
 riderII=119
 if riderI > 120 and riderII > 120:
     print("good")
