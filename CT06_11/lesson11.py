@@ -20,4 +20,4 @@ print("gbrgegfw")
 # else:
 #     print("1 human adult required")
 
-tik
+age=int(input())
