@@ -14,4 +14,6 @@ else:
     print("not divisible by 3 and 7")
 
 rodent1=34
-r
+roden2=1
+if rodent1 == 18 or roden2 == 18:
+    print()
