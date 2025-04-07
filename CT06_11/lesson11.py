@@ -20,4 +20,6 @@ print("gbrgegfw")
 # else:
 #     print("1 human adult required")
 
-age=int(input())
+age=int(input("what is ur age "))
+if age >= 65 or age <=5:
+    print("you ")
