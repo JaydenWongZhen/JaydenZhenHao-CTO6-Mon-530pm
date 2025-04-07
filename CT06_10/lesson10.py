@@ -24,4 +24,4 @@ print("Hello from lesson 10")
 
 scr=int(input("tell me your score "))
 if scr >= 90:
-    
+    print("wow, ")
