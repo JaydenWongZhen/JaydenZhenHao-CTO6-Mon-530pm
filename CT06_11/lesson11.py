@@ -7,4 +7,4 @@ print("gbrgegfw")
 # else:
 #     print("come back when taller")
 
-i
+rrjegsjh=int()
