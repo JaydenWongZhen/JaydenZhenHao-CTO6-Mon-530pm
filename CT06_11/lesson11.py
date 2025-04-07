@@ -13,3 +13,4 @@ if rrjegsjh%3==0 and rrjegsjh%7 == 0:
 else:
     print("not divisible by 3 and 7")
 
+22541
