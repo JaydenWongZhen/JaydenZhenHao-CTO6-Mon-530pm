@@ -29,7 +29,7 @@ elif scr >= 80:
     print("ok, you got a B")
 elif scr >= 70:
     print("you got a C, Good enough.")
-elif scr >= 69:
+elif scr >= 60:
     print("ehh you got a D")
 elif scr <= 60:
     print("bruh")
