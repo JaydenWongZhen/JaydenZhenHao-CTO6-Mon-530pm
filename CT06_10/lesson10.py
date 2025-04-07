@@ -34,4 +34,4 @@ elif scr >= 69:
 elif scr <= 60:
     print("bruh")
 else:
-    print()
+    print("invalid")
