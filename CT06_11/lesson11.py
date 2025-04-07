@@ -8,7 +8,7 @@ print("gbrgegfw")
 #     print("come back when taller")
 
 rrjegsjh=int(input("give me a nmunhlkfjobyigfhuer "))
-if rrjegsjh%3 and rrjegsjh%7 == 0:
+if rrjegsjh%3 and rrjegsjh%7 == 3 and 7:
     print("divisible by 3 and 7")
 else:
     print("not divisible by 3 and 7")
