@@ -22,3 +22,4 @@ print("Hello from lesson 10")
 #     print("Password Incorrect. Try again.")
 
 
+scr=int
