@@ -7,11 +7,11 @@ print("gbrgegfw")
 # else:
 #     print("come back when taller")
 
-rrjegsjh=int(input("give me a nmunhlkfjobyigfhuer "))
-if rrjegsjh%3==0 and rrjegsjh%7 == 0:
-    print("divisible by 3 and 7")
-else:
-    print("not divisible by 3 and 7")
+# rrjegsjh=int(input("give me a nmunhlkfjobyigfhuer "))
+# if rrjegsjh%3==0 and rrjegsjh%7 == 0:
+#     print("divisible by 3 and 7")
+# else:
+#     print("not divisible by 3 and 7")
 
 rodent1=34
 roden2=1
