@@ -1,4 +1,4 @@
 print("gbrgegfw")
 
 riderI=125
-riderII
+riderII=150
