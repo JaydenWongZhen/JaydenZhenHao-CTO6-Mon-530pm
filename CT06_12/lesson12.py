@@ -39,7 +39,7 @@ fgygrsusegrgjfhbn= random.randint(1,10)
 gfshuygdiubyfdufhvdnnu= random.randint(1,10)
 ans = fgygrsusegrgjfhbn + gfshuygdiubyfdufhvdnnu
 guess= int(input("what is " + str(gfshuygdiubyfdufhvdnnu) + "+" + str(fgygrsusegrgjfhbn) + " " ))
-youre_adpoted= int(input)
+youre_adpoted= int(input(guess))
 while not int(guess) == ans:
     print("no")
 else:
