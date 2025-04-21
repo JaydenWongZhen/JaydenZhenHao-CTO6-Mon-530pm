@@ -42,4 +42,5 @@ guess= int(input("what is " + str(gfshuygdiubyfdufhvdnnu) + "+" + str(fgygrsuseg
 if int(guess) == ans:
     print("corrrrrect")
 else:
-    print()
+    print("try again")
+    
