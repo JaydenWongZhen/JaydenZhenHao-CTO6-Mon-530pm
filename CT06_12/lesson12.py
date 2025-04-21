@@ -46,3 +46,4 @@ print("Hello from lesson 12")
 #     youre_adpoted = int(youre_adpoted)
 # else:
 #     print("yes")
+
