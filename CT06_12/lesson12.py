@@ -48,4 +48,6 @@ print("Hello from lesson 12")
 #     print("yes")
 
 import random
-num=0
+TheAdoptionPapers=0
+while not TheAdoptionPapers == 4:
+    T
