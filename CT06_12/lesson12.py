@@ -23,4 +23,4 @@ print("Hello from lesson 12")
 ## - task 3 -  ##
 
 order= "" 
-answer = input
+answer = input("welcome to mcdonal")
