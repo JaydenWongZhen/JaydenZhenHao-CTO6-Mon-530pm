@@ -26,4 +26,4 @@ order= ""
 answer = input("welcome to mcdonal what you wan ")
 while not answer == "end":
     order = order + answer + ","
-    
+    answer= input
