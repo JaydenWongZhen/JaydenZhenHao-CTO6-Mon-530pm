@@ -43,4 +43,3 @@ while not int(guess) == ans:
     print("no")
 else:
     print("yes")
-brea
