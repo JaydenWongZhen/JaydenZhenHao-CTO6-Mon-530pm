@@ -37,4 +37,4 @@ print("Hello from lesson 12")
 import random
 fgygrsusegrgjfhbn= random.randint(1,10)
 gfshuygdiubyfdufhvdnnu= random.randint(1,10)
-ans = f
+ans = fgygrsusegrgjfhbn + gfshuygdiubyfdufhvdnnu
