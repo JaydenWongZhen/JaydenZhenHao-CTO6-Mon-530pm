@@ -40,7 +40,7 @@ nn= random.randint(1,10)
 ans = n + nn
 guess= "what is " + str(n) + "+" + str(nn) + " "
 youre_adpoted= int(input(guess))
-while not int(guess) == ans:
+while not int(youre_adpoted) == ans:
     print("no")
     answer = input(guess)
     answer = int(answer)
