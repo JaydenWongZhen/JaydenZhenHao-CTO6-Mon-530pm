@@ -50,7 +50,7 @@ print("Hello from lesson 12")
 import random
 TheAdoptionPapers=0
 while not TheAdoptionPapers == 4:
-    TheAdoptionPapers = random.randint(1,500)
+    TheAdoptionPapers = random.randint(1,6)
     print(str(TheAdoptionPapers))
     if TheAdoptionPapers == 6:
         break
