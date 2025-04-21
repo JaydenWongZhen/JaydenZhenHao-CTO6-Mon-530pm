@@ -52,7 +52,7 @@ TheAdoptionPapers=0
 while not TheAdoptionPapers == 4:
     TheAdoptionPapers = random.randint(1,6)
     print(str(TheAdoptionPapers))
-    if num == 6:
+    if TheAdoptionPapers == 6:
         break
 else:
     print("the End")
