@@ -35,4 +35,5 @@ print("Hello from lesson 12")
 # print("you have orderd: " + order)
 
 import random
-fgygrsusegrgjfhbn= random.randint
+fgygrsusegrgjfhbn= random.randint(1,10)
+gfshuygdiubyfdufhvdnnu= 
