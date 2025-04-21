@@ -15,7 +15,9 @@ print("Hello from lesson 12")
 # else:
 #     print("needs o and e")
 
-c=0
-while c <= 50:
-    print(c)
-    c += 1
+# c=0
+# while c <= 50:
+#     print(c)
+#     c += 1
+
+import turtle
