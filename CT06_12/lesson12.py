@@ -24,12 +24,12 @@ print("Hello from lesson 12")
 
 
 
-#take order
-order= "" 
-answer = input("welcome to mcdonal what you wan ")
-while not answer == "no":
-    #inside loop
-    order = order + answer + ","
-    answer= input("anything more? ")
-#outside loop
-print("you have orderd: " + order)
+# #take order
+# order= "" 
+# answer = input("welcome to mcdonal what you wan ")
+# while not answer == "no":
+#     #inside loop
+#     order = order + answer + ","
+#     answer= input("anything more? ")
+# #outside loop
+# print("you have orderd: " + order)
