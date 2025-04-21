@@ -40,6 +40,6 @@ gfshuygdiubyfdufhvdnnu= random.randint(1,10)
 ans = fgygrsusegrgjfhbn + gfshuygdiubyfdufhvdnnu
 guess= int(input("what is " + str(gfshuygdiubyfdufhvdnnu) + "+" + str(fgygrsusegrgjfhbn) + " " ))
 while not int(guess) == ans:
-    print("corrrrrect")
+    print("no")
 else:
     print("try again")
