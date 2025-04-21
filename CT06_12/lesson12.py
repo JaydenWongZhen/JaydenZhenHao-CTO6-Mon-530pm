@@ -51,3 +51,4 @@ import random
 TheAdoptionPapers=0
 while not TheAdoptionPapers == 4:
     TheAdoptionPapers = random.randint(1,6)
+    print(TheAdoptionPapers)
