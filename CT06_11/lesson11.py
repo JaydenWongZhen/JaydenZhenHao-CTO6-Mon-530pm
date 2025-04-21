@@ -20,8 +20,20 @@ print("gbrgegfw")
 # else:
 #     print("1 human adult required")
 
-age=int(input("what is ur age "))
-if age >= 65 or age <=5:
-    print("the price of your ticket is $15.")
+# age=int(input("what is ur age "))
+# if age >= 65 or age <=5:
+#     print("the price of your ticket is $15.")
+# else:
+#     print("the price of your ticket is $20.")
+
+# cc=input("say a color ")
+# if not cc == "green":
+#     print("try again")
+# else:
+#     print("nice choice")
+
+frhgegrduyetfr= input("whats the day (type in lowercase) ")
+if not frhgegrduyetfr == "saturday" and not frhgegrduyetfr == "sunday":
+    print("it is not the weekend")
 else:
-    print("the price of your ticket is $20.")
+    print('weekend')
