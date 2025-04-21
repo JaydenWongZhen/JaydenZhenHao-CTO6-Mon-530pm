@@ -50,4 +50,4 @@ print("Hello from lesson 12")
 import random
 TheAdoptionPapers=0
 while not TheAdoptionPapers == 4:
-    TheAdoptionPapers = rand
+    TheAdoptionPapers = random.randint(1,6)
