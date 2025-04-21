@@ -38,4 +38,4 @@ import random
 fgygrsusegrgjfhbn= random.randint(1,10)
 gfshuygdiubyfdufhvdnnu= random.randint(1,10)
 ans = fgygrsusegrgjfhbn + gfshuygdiubyfdufhvdnnu
-guess= int
+guess= int(input("what is "))
