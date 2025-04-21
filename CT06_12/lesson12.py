@@ -21,4 +21,5 @@ print("Hello from lesson 12")
 #     c += 1
 
 import turtle
-swag=turtle.
+swag=turtle.Turtle()
+swag.backward(60)
