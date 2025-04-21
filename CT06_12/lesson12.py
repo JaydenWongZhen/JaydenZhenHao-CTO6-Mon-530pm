@@ -43,4 +43,4 @@ if int(guess) == ans:
     print("corrrrrect")
 else:
     print("try again")
-    
+    guess
