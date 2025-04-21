@@ -35,3 +35,4 @@ print("Hello from lesson 12")
 # print("you have orderd: " + order)
 
 import random
+fgygrsusegrgjfhbn= randp
