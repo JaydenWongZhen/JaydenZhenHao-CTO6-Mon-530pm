@@ -40,4 +40,4 @@ gfshuygdiubyfdufhvdnnu= random.randint(1,10)
 ans = fgygrsusegrgjfhbn + gfshuygdiubyfdufhvdnnu
 guess= int(input("what is " + str(gfshuygdiubyfdufhvdnnu) + "+" + str(fgygrsusegrgjfhbn)))
 if int(guess) == ans:
-    print
+    print("corrrrrect")
