@@ -47,4 +47,4 @@ print("Hello from lesson 12")
 # else:
 #     print("yes")
 
-imort random
+import random
