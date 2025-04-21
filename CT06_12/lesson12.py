@@ -38,4 +38,4 @@ import random
 fgygrsusegrgjfhbn= random.randint(1,10)
 gfshuygdiubyfdufhvdnnu= random.randint(1,10)
 ans = fgygrsusegrgjfhbn + gfshuygdiubyfdufhvdnnu
-guess= int(input("what is " + str(gfshuygdiubyfdufhvdnnu) + "+" + str(F)))
+guess= int(input("what is " + str(gfshuygdiubyfdufhvdnnu) + "+" + str(fgygrsusegrgjfhbn)))
