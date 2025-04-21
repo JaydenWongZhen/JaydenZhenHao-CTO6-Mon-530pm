@@ -20,3 +20,4 @@ print("Hello from lesson 12")
 #     print(c)
 #     c += 1
 
+##task 3 ##
