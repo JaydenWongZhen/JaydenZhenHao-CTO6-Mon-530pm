@@ -43,5 +43,6 @@ youre_adpoted= input(guess)
 while not int(guess) == ans:
     print("no")
     answer = input(guess)
+    answer = int(answer)
 else:
     print("yes")
