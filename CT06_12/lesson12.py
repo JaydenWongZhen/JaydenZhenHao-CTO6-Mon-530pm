@@ -20,6 +20,3 @@ print("Hello from lesson 12")
 #     print(c)
 #     c += 1
 
-import turtle
-swag=turtle.Turtle()
-swag.backward(60)
