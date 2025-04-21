@@ -21,3 +21,5 @@ print("Hello from lesson 12")
 #     c += 1
 
 ## - task 3 -  ##
+
+order= "" 
