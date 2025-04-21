@@ -5,4 +5,4 @@ print("Welcome to the ATM.")
 print("Choose the 4 following. | Withdraw || Deposit || Check Balance || Exit ||")
 reply = input(" ")
 if reply == "Exit":
-    b
+    print("Thank you for using the ATM.")
