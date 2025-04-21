@@ -31,5 +31,5 @@ while not answer == "no":
     #inside loop
     order = order + answer + ","
     answer= input("anything more? ")
-
+#outside loop
 print("you have orderd: " + order)
