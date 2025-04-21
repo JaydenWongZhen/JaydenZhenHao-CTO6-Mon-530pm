@@ -34,3 +34,4 @@ print("Hello from lesson 12")
 # #outside loop
 # print("you have orderd: " + order)
 
+import random
