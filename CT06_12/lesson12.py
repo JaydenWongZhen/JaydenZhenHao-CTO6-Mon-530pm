@@ -28,7 +28,8 @@ print("Hello from lesson 12")
 order= "" 
 answer = input("welcome to mcdonal what you wan ")
 while not answer == "no":
-    #inside
+    #inside loop
     order = order + answer + ","
     answer= input("anything more? ")
+
 print("you have orderd: " + order)
