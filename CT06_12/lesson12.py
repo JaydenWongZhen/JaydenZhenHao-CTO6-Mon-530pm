@@ -27,4 +27,4 @@ answer = input("welcome to mcdonal what you wan ")
 while not answer == "no":
     order = order + answer + ","
     answer= input("anything more? ")
-print("you have orderd: " order)
+print("you have orderd: " + order)
