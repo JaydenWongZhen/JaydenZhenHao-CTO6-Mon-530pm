@@ -46,3 +46,4 @@ while not int(guess) == ans:
     answer = int(answer)
 else:
     print("yes")
+    
