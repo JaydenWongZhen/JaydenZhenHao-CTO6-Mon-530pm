@@ -42,4 +42,4 @@ guess= int(input("what is " + str(gfshuygdiubyfdufhvdnnu) + "+" + str(fgygrsuseg
 while not int(guess) == ans:
     print("no")
 else:
-    print("try again")
+    print("yes")
