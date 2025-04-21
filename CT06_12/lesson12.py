@@ -42,8 +42,8 @@ guess= "what is " + str(n) + "+" + str(nn) + " "
 youre_adpoted= int(input(guess))
 while not int(youre_adpoted) == ans:
     print("no")
-    answer = input(guess)
-    answer = int(answer)
+    youre_adpoted = input(guess)
+    youre_adpoted = int(youre_adpoted)
 else:
     print("yes")
     
