@@ -46,4 +46,3 @@ while not int(youre_adpoted) == ans:
     youre_adpoted = int(youre_adpoted)
 else:
     print("yes")
-    
