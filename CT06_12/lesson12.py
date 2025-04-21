@@ -34,15 +34,15 @@ print("Hello from lesson 12")
 # #outside loop
 # print("you have orderd: " + order)
 
-import random
-n= random.randint(1,10)
-nn= random.randint(1,10)
-ans = n + nn
-guess= "what is " + str(n) + "+" + str(nn) + " "
-youre_adpoted= int(input(guess))
-while not int(youre_adpoted) == ans:
-    print("no")
-    youre_adpoted = input(guess)
-    youre_adpoted = int(youre_adpoted)
-else:
-    print("yes")
+# import random
+# n= random.randint(1,10)
+# nn= random.randint(1,10)
+# ans = n + nn
+# guess= "what is " + str(n) + "+" + str(nn) + " "
+# youre_adpoted= int(input(guess))
+# while not int(youre_adpoted) == ans:
+#     print("no")
+#     youre_adpoted = input(guess)
+#     youre_adpoted = int(youre_adpoted)
+# else:
+#     print("yes")
