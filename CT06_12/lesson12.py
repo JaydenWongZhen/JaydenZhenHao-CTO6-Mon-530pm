@@ -22,6 +22,9 @@ print("Hello from lesson 12")
 
 ## - task 3 -  ##
 
+
+
+#take order
 order= "" 
 answer = input("welcome to mcdonal what you wan ")
 while not answer == "no":
