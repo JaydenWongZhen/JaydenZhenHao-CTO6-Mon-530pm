@@ -1,4 +1,4 @@
-print("Hello from lesson 12")
+print("i dont get paid enough for this.")
 
 # fhrfgt=input("give me a 5 letter word ")
 # contains_o= False
