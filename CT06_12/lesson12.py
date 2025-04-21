@@ -25,4 +25,5 @@ print("Hello from lesson 12")
 order= "" 
 answer = input("welcome to mcdonal what you wan ")
 while not answer == "end":
-    order = order + answer 
+    order = order + answer + ","
+    
