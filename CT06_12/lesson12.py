@@ -35,11 +35,11 @@ print("Hello from lesson 12")
 # print("you have orderd: " + order)
 
 import random
-fgygrsusegrgjfhbn= random.randint(1,10)
-gfshuygdiubyfdufhvdnnu= random.randint(1,10)
-ans = fgygrsusegrgjfhbn + gfshuygdiubyfdufhvdnnu
-guess= int(input("what is " + str(gfshuygdiubyfdufhvdnnu) + "+" + str(fgygrsusegrgjfhbn) + " " ))
-youre_adpoted= int(input(guess))
+n= random.randint(1,10)
+nn= random.randint(1,10)
+ans = n + nn
+guess= "what is " + str(n) + "+" + str(nn) + " "
+youre_adpoted= input(guess)
 while not int(guess) == ans:
     print("no")
 else:
