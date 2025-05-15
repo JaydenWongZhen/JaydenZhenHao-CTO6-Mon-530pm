@@ -16,7 +16,7 @@
 
 skibidi=10 #start numb
 
-while skibidi < 200:
+while skibidi < 210:
     print(skibidi)
     skibidi=skibidi+10
 
