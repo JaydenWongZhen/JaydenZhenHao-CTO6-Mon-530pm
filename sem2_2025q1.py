@@ -29,7 +29,7 @@ while ra <= 200:
 HiddenPass = "superpass123"
 #Hidden Password
 
-PasswordGuessed=input(wha)
+PasswordGuessed=input("What")
 
 
 ##########################################
