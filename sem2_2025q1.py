@@ -10,7 +10,9 @@
 ra = range(9,200,10) # code here is not correct...
 
 # while loop is a loop with a condition
-# 
+# as long as the condition is true, it will loop
+
+
 
 
 while ra <= 200:
