@@ -8,7 +8,7 @@
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
 ra=range(9,200,10)
-while ra >True:
+while ra <= 200:
     print(ra)
 
 
