@@ -17,7 +17,8 @@
 skibidi=10 #start numb
 
 while skibidi < 200:
-    print()
+    print(skibidi)
+    skibidi
 
 
 
