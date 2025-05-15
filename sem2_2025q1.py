@@ -14,9 +14,10 @@
 # as long as the condition is true, it will loop
 
 
-skibidi=10 
+skibidi=10 #start numb
 
-
+while skibidi < 200:
+    print()
 
 
 
