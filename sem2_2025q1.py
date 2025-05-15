@@ -8,7 +8,8 @@
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
 
-
+while True:
+    print("ra")
 
 
 
