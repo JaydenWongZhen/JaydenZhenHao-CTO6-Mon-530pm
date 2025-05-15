@@ -7,10 +7,11 @@
 # Example: 10, 20, 30 ..... 180, 190, 200.
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
-
+ra=range(9,200,10)
 while True:
-    print(range(9,200,10))
-
+    print(ra)
+    if ra >= 200:
+       break
 
 
 ###################################################
