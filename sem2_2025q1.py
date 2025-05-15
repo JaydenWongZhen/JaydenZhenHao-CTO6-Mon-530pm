@@ -30,6 +30,7 @@ HiddenPass = "superpass123"
 #Hidden Password
 
 PasswordGuessed=input("What is the password? ")
+# ask for pass
 if PasswordGuessed == HiddenPass:
     print("Access Granted")
 
