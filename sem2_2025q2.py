@@ -10,7 +10,7 @@ planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 print(planets[2])
 
 # 2. Write code to append neptune to this list.
-append.Ne
+append.neptune[planets]
 
 # 3. Elon Musk has conquered Mars. 
 #    Rename Mars in the list to be "muskworld"
