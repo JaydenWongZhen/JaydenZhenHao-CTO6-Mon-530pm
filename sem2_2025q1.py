@@ -34,5 +34,5 @@ PasswordGuessed=input("What is the password? ")
 if PasswordGuessed == HiddenPass:
     print("Access Granted")
 else:
-    print9
+    print("Access Denied")
 ##########################################
