@@ -7,17 +7,23 @@
 # Example: 10, 20, 30 ..... 180, 190, 200.
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
-ra = range(9,200,10) # code here is not correct...
+#ra = range(9,200,10) # code here is not correct... don't use this
+# a range() usually used in a for loop
 
 # while loop is a loop with a condition
 # as long as the condition is true, it will loop
 
-count = 10 # starting number
+# count = 10 # starting number
+
+# while ra <= 200:
+#     print(int(ra))
 
 
-while ra <= 200:
-    print(int(ra))
+count = 1
+while count < 11:
+    print(count) # print the value of count
 
+    count = count + 1 #increment the value of count by 1
 
 
 ###################################################
