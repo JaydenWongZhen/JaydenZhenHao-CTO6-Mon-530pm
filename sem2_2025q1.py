@@ -9,7 +9,7 @@
 # Write your code here
 
 while True:
-    print(range(9,))
+    print(range(9,200,10))
 
 
 
