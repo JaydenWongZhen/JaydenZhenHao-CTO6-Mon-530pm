@@ -14,7 +14,7 @@
 # as long as the condition is true, it will loop
 
 
-
+skibidi=10 
 
 
 
