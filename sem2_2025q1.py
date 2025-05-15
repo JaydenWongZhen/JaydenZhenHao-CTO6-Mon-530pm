@@ -9,7 +9,7 @@
 # Write your code here
 ra = range(9,200,10)
 while ra <= 200:
-    print(ra)
+    print(int(ra))
 
 
 
