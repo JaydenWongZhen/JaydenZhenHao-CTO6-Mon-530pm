@@ -9,7 +9,7 @@
 # Write your code here
 
 while True:
-    print("ra")
+    print(range(9,))
 
 
 
