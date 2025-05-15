@@ -35,5 +35,5 @@ if PasswordGuessed == HiddenPass:
     print("Access Granted")
 else:
     print("Access Denied")
-#find 
+#checking password
 ##########################################
