@@ -13,10 +13,10 @@
 # while loop is a loop with a condition
 # as long as the condition is true, it will loop
 
-count = 10 # starting number
 
-while ra <= 200:
-    print(int(ra))
+
+
+
 
 
 
