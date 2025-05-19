@@ -50,6 +50,6 @@ for count in range(15):
     randy=random.randint(-200,200)
 
     abert.goto(randx,randy)
-    abert.write(str())
+    abert.write(str(randomX))
 
 scren.mainloop()
