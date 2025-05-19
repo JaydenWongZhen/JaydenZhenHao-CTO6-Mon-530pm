@@ -21,7 +21,7 @@ jim.forward(50)
 
 pippey=turtle.Turtle()
 pippey.shape("Square")
-
+pippey.speed(10)
 pippey.color("Yellow")
 pippey.left(135)
 pippey.forward(100)
