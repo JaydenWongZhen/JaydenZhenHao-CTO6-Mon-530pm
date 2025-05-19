@@ -40,7 +40,7 @@ scren.setup(width=600, height=400)
 # jim.right(90)
 # jim.forward(50)
 # jim.write("bnana")
-
+import time
 import random
 abert=turtle.Turtle()
 abert.speed(5)
@@ -52,6 +52,7 @@ for count in range(250):
 
     abert.goto(randx,randy)
     time.sleep(5)
+    abet
     # abert.write(str(randx) + "," + str(randy))
 
 scren.mainloop()
