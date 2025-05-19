@@ -44,7 +44,7 @@ import time
 import random
 abert=turtle.Turtle()
 abert.speed(5)
-abert.penup()
+# abert.penup()
 
 for count in range(250):
     randx=random.randint(-300,300)
