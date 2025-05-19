@@ -10,7 +10,7 @@ planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 print(planets[2])
 
 # 2. Write code to append neptune to this list.
-append.neptune[planets]
+# append.neptune[planets]
 print(planets)
 # 3. Elon Musk has conquered Mars. 
 #    Rename Mars in the list to be "muskworld"
@@ -18,6 +18,9 @@ print(planets)
 
 # 4. Remove uranus from this list.
 
-
+remove(uranus[planets])
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
+
+for g in range(7):
+    print(planets)
