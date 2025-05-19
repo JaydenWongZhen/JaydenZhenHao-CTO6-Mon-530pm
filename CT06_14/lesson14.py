@@ -45,7 +45,7 @@ import random
 abert=turtle.Turtle()
 abert.speed(5)
 
-for count in range(100):
+for count in range(250):
     randx=random.randint(-300,300)
     randy=random.randint(-200,200)
 
