@@ -21,6 +21,6 @@ pippey=turtle.Turtle()
 pippey.color("Yellow")
 pippey.left(135)
 pippey.forward(100)
-
+pippey.right(90)
 
 scren.mainloop()
