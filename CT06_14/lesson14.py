@@ -12,6 +12,7 @@ jim.color("Black")
 jim.forward(50)
 jim.left(90)
 jim.forward(50)
+jim.left(90)
 jim.
 
 scren.mainloop()
