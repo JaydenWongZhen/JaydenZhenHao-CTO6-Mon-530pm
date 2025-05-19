@@ -4,7 +4,7 @@ scren = turtle.Screen()
 scren.setup(width=600, height=400)
 
 jim = turtle.Turtle()
-jim.color("")
+jim.color("Yellow")
 jim.forward(100)
 
 scren.mainloop()
