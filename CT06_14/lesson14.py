@@ -43,7 +43,7 @@ jim.write("bnana")
 
 import random
 abert=turtle.Turtle()
-abert.speed(10)
+abert.speed(5)
 
 for count in range(100):
     randx=random.randint(-300,300)
