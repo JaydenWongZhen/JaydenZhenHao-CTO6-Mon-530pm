@@ -1,3 +1,3 @@
 print("... you probably know it already.")
 import turtle
-scren = tur
+scren = turtle.Screen()
