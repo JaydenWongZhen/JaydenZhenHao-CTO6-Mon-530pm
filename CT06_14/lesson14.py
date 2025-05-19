@@ -42,5 +42,6 @@ jim.forward(50)
 jim.write("bnana")
 
 abert=turtle.Turtle()
+abert.speed(50)
 
 scren.mainloop()
