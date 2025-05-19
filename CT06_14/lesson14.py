@@ -9,5 +9,5 @@ jim.forward(100)
 jim.left(45)
 jim.forward(100)
 jim.color("Black")
-
+jim.forward(50)
 scren.mainloop()
