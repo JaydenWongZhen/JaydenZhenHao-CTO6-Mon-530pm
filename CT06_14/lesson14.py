@@ -18,6 +18,7 @@ jim.left(90)
 jim.forward(50)
 
 pippey=turtle.Turtle()
-pipper.color()
+pippey.color("Yellow")
+p
 
 scren.mainloop()
