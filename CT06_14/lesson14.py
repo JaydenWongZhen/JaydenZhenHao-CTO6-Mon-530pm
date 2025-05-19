@@ -25,5 +25,7 @@ pippey.right(90)
 pippey.forward(50)
 pippey.right(90)
 pippey.forward(100)
+pippey.left(45)
+
 
 scren.mainloop()
