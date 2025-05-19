@@ -44,7 +44,7 @@ import time
 import random
 abert=turtle.Turtle()
 abert.speed(5)
-abert.shape("Turtle")
+abert.shape("turtle")
 # abert.penup()
 
 for count in range(250):
