@@ -7,5 +7,6 @@ jim = turtle.Turtle()
 jim.color("Yellow")
 jim.forward(100)
 jim.left(45)
+jim.forward
 
 scren.mainloop()
