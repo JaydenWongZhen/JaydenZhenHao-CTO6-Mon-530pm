@@ -4,6 +4,6 @@ scren = turtle.Screen()
 scren.setup(width=600, height=400)
 
 jim = turtle.Turtle()
-jim.forward()
+jim.forward(50)
 
 scren.mainloop()
