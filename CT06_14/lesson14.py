@@ -13,6 +13,6 @@ jim.forward(50)
 jim.left(90)
 jim.forward(50)
 jim.left(90)
-jim.forward()
+jim.forward(50)
 
 scren.mainloop()
