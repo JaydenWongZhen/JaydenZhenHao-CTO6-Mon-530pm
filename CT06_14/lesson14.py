@@ -17,6 +17,7 @@ jim.forward(50)
 jim.left(90)
 jim.forward(50)
 
-pippey=tu
+pippey=turtle.Turtle()
+pipper.color()
 
 scren.mainloop()
