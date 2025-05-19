@@ -51,7 +51,7 @@ for count in range(250):
     randy=random.randint(-200,200)
 
     abert.goto(randx,randy)
-    time.sleep(5)
+    time.sleep(1)
     # abert.write(str(randx) + "," + str(randy))
 
 scren.mainloop()
