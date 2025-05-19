@@ -30,4 +30,6 @@ pippey.forward(100)
 pippey.left(45)
 pippey.forward(50)
 
+
+
 scren.mainloop()
