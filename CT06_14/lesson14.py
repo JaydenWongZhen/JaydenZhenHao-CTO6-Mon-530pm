@@ -18,7 +18,6 @@ jim.left(90)
 jim.forward(50)
 
 pippey=turtle.Turtle()
-pippey.shape("Square")
 pippey.color("Yellow")
 pippey.left(135)
 pippey.forward(100)
