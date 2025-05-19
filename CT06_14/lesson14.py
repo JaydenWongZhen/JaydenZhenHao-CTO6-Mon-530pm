@@ -41,4 +41,6 @@ jim.right(90)
 jim.forward(50)
 jim.write("bnana")
 
+abert=turtle.Turtle()
+
 scren.mainloop()
