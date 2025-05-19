@@ -3,6 +3,6 @@ import turtle
 scren = turtle.Screen()
 scren.setup(width=600, height=400)
 
-
+jim = turtle.
 
 scren.mainloop()
