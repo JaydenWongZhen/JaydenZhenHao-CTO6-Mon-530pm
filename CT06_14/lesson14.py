@@ -8,6 +8,6 @@ jim.color("Yellow")
 jim.forward(100)
 jim.left(45)
 jim.forward(100)
-jim.colr
+jim.color("Black")
 
 scren.mainloop()
