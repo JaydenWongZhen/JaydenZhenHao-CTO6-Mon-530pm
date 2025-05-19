@@ -5,7 +5,7 @@ scren.setup(width=600, height=400)
 
 jim = turtle.Turtle()
 jim.shape("Square")
-jim.speed()
+jim.speed(10)
 jim.color("Yellow")
 jim.forward(100)
 jim.left(45)
