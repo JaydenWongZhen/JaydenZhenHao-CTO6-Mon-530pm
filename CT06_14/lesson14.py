@@ -47,6 +47,6 @@ abert.speed(10)
 
 for count in range(15):
     randx=random.randint(-300,300)
-    randy
+    randy=random.randint(-200,200)
 
 scren.mainloop()
