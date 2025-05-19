@@ -52,7 +52,7 @@ for count in range(250):
 
     abert.goto(randx,randy)
     time.sleep(5)
-    abert.clone(1)
+    # abert.clone(1)
     # abert.write(str(randx) + "," + str(randy))
 
 scren.mainloop()
