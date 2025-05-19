@@ -41,10 +41,11 @@ jim.right(90)
 jim.forward(50)
 jim.write("bnana")
 
+import random
 abert=turtle.Turtle()
 abert.speed(10)
 
 for count in range(15):
-    randx=random.rand
+    randx=random.randint
 
 scren.mainloop()
