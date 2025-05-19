@@ -32,5 +32,6 @@ pippey.forward(50)
 
 jim.penup()
 jim.right(45)
+jim.forward(100)
 
 scren.mainloop()
