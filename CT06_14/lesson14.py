@@ -42,6 +42,9 @@ jim.forward(50)
 jim.write("bnana")
 
 abert=turtle.Turtle()
-abert.speed(50)
+abert.speed(10)
+
+for count in range(15):
+    randx=random.rand
 
 scren.mainloop()
