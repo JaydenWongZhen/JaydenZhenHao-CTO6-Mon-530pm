@@ -46,6 +46,7 @@ abert=turtle.Turtle()
 abert.speed(10)
 
 for count in range(15):
-    randx=random.randint(-600,)
+    randx=random.randint(-300,300)
+    randy
 
 scren.mainloop()
