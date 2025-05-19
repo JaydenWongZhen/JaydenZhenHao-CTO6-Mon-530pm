@@ -49,4 +49,6 @@ for count in range(15):
     randx=random.randint(-300,300)
     randy=random.randint(-200,200)
 
+    abert.goto
+
 scren.mainloop()
